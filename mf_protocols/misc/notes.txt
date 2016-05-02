@@ -1,0 +1,8 @@
+﻿1. Design is based on:  
+	https://bootswatch.com/cerulean/
+
+2. LinqJS:
+	http://neue.cc/reference.htm
+	https://linqjs.codeplex.com/
+
+3. 
